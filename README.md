@@ -1,6 +1,7 @@
 # Eagle-Charles-Bot
 My telegram bot - Eagle Сharles Bot.
 https://t.me/EagleCharles_bot.
+(it doesn't always work, but I can start it)
 
 Разработан мною, как финальная работа по тг ботам. Он объединяет в себе функции моих прошлых работ StrakBot и BettyBot (to_do и date боты, написанные на курсах от Нетологии и JavaRush).
 Имеет функции ChatGPT. Файлы gpt.py и util.py написаны тимлидом JavaRush. Также некоторые файлы из ресурсов взяты с марафона по BettyBot от них же. В будущем возможно прикручу к нему и другие функции.
